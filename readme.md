@@ -1,6 +1,6 @@
 **- ¿Qué comando utilizaste en el paso 11? ¿Por qué?**
 
-*git reset --hard HEAD~1: con reset HEAD~1 retrocedo un commit pero dejando los cambios en el staying area. Para borrar cambios del working copy necesito el modificador --hard
+*git reset --hard HEAD~1:* con reset HEAD~1 retrocedo un commit pero dejando los cambios en el staying area. Para borrar cambios del working copy necesito el modificador --hard
 
 
 **- ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?**
